@@ -1,1 +1,1 @@
-python -m pip show mcp
+mcp>=2.0.0,<3.0.0
